@@ -9,3 +9,5 @@ def qlr_predict(ax, ay, x_col=0, y_col=1):
 
     Y_pred = linear_regressor.predict(X)
     return X, Y, Y_pred
+
+# hello world
